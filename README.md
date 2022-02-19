@@ -1,2 +1,4 @@
-# twitch-lessons
-This is the repo for each lesson given on twitch.
+# Welcome to Python for Beginners
+
+
+Each branch contains code for each lesson!
